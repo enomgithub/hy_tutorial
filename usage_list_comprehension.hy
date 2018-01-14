@@ -5,7 +5,7 @@
     (list-comp
         (pow num 2)
         (num (range 100)
-        (= (% num 2) 1)))
+        (= (% num 2) 1))))
 
 ; リストの中身の表示（インデックス付き）
 (print "odds-squared:")
